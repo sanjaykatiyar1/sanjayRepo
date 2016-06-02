@@ -100,15 +100,5 @@ For a complete list of charges and specific prices for Amazon EC2, see Amazon EC
 
 To calculate the cost of a sample provisioned environment, see AWS Economics Center.
 
-To see your bill, go to your AWS Account Activity page. Your bill contains links to usage reports that provide details about your bill. To learn more about AWS account billing, see AWS Account Billing.
-
-If you have questions concerning AWS billing, accounts, and events, contact AWS Support.
-
-For an overview of Trusted Advisor, a service that helps you optimize the costs, security, and performance of your AWS environment, see AWS Trusted Advisor.
-
-PCI DSS Compliance
-
-Amazon EC2 supports the processing, storage, and transmission of credit card data by a merchant or service provider, and has been validated as being compliant with Payment Card Industry (PCI) Data Security Standard (DSS). For more information about PCI DSS, including how to request a copy of the AWS PCI Compliance Package, see PCI DSS Level 1.
-
 Document ConventionsNext »
 
