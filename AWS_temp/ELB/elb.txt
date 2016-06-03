@@ -1,0 +1,10 @@
+Get Up and Running
+
+Setting Up with Amazon EC2
+Getting Started with Amazon EC2 Linux Instances
+Basics
+
+Instances and AMIs
+Regions and Availability Zones
+Instance Types
+Tags
