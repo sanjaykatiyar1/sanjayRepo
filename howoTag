@@ -1,0 +1,3 @@
+git tag <name>
+
+git push --tag
